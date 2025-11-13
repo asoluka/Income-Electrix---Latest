@@ -240,7 +240,7 @@ export default function EnhancedIegLandingPage() {
             </p>
 
             <div className="mt-10 flex flex-col sm:flex-row gap-4">
-              <a href="#projects" className="px-8 py-4 rounded-xl bg-gradient-to-r from-red-600 to-red-700 text-white font-semibold hover:shadow-xl transition-all flex items-center gap-2">
+              <a href="projects" className="px-8 py-4 rounded-xl bg-gradient-to-r from-red-600 to-red-700 text-white font-semibold hover:shadow-xl transition-all flex items-center gap-2">
                 <Zap size={20} />
                 What We Have Done in Pictures
               </a>
